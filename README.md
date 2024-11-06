@@ -1,8 +1,8 @@
 # Tugas 7 - Pertemuan 8
 
 Dibuat oleh:
-- Nama: Jehian Athaya
-- NIM: H1D022006
+- Nama: Imam Muzakki
+- NIM: H1D022060
 
 ## Cara Kerja Login
 
